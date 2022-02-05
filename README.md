@@ -1,5 +1,5 @@
 # Work Day Scheduler
-## Created a simple very simplistic app that allows a user to save events for each hour of the current day.
+## Created a very simplistic app that allows a user to save events for each hour of the current day.
 ##
 
 ## Table of Contents
